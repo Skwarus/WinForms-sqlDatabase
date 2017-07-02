@@ -1,0 +1,10 @@
+C:\Users\Przemek\Desktop\winForms-database\winForms-database\bin\Debug\winForms-database.exe.config
+C:\Users\Przemek\Desktop\winForms-database\winForms-database\bin\Debug\winForms-database.exe
+C:\Users\Przemek\Desktop\winForms-database\winForms-database\bin\Debug\winForms-database.pdb
+C:\Users\Przemek\Desktop\winForms-database\winForms-database\obj\Debug\winForms-database.csprojResolveAssemblyReference.cache
+C:\Users\Przemek\Desktop\winForms-database\winForms-database\obj\Debug\winForms_database.Form1.resources
+C:\Users\Przemek\Desktop\winForms-database\winForms-database\obj\Debug\winForms_database.Properties.Resources.resources
+C:\Users\Przemek\Desktop\winForms-database\winForms-database\obj\Debug\winForms-database.csproj.GenerateResource.Cache
+C:\Users\Przemek\Desktop\winForms-database\winForms-database\obj\Debug\winForms-database.exe
+C:\Users\Przemek\Desktop\winForms-database\winForms-database\obj\Debug\winForms-database.pdb
+C:\Users\Przemek\Desktop\winForms-database\winForms-database\obj\Debug\winForms_database.AddDraw.resources
