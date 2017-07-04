@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winForms-database", "winForms-database\winForms-database.csproj", "{4A329B2A-EF8A-45D3-BAEC-FC26EA2E7D93}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "installator", "installator\installator.vdproj", "{A466931C-6F21-4CFD-8415-50DBBE473933}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{4A329B2A-EF8A-45D3-BAEC-FC26EA2E7D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A329B2A-EF8A-45D3-BAEC-FC26EA2E7D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A329B2A-EF8A-45D3-BAEC-FC26EA2E7D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A466931C-6F21-4CFD-8415-50DBBE473933}.Debug|Any CPU.ActiveCfg = Debug
+		{A466931C-6F21-4CFD-8415-50DBBE473933}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
