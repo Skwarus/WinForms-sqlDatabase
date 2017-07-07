@@ -36,7 +36,7 @@ namespace winForms_database
             reader.Close();
             connection.Close();
         }
-
+        //model polaczeniowy
         private void button1_Click(object sender, EventArgs e)
         {
             AddDraw ad = new AddDraw();
@@ -60,6 +60,17 @@ namespace winForms_database
 
                 
 
+            }
+        }
+        //bezpolaczeniowy model
+        private void button2_Click(object sender, EventArgs e)
+        {
+            AddDraw ad = new AddDraw();
+            if (ad.ShowDialog() == DialogResult.OK)
+            {
+                DataSet ds = new DataSet();
+                SqlDataAdapter da = new SqlDataAdapter("insert into duzy values (@data,@liczba1,@liczba2,@liczba3,@liczba4,@liczba5,@liczba6);", connection);
+                //To do continue...
             }
         }
     }
